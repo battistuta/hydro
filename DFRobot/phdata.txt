@@ -1,2 +1,0 @@
-neutralVoltage=1540
-acidVoltage=2038
